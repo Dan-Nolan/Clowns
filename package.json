@@ -14,11 +14,15 @@
     "@openzeppelin/contracts": "^3.1.0",
     "dotenv": "^8.2.0"
   },
+  "browserslist": [
+      "> 5%"
+  ],
   "devDependencies": {
     "@nomiclabs/buidler-ethers": "^2.0.0",
     "@nomiclabs/buidler-waffle": "^2.1.0",
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.1.0",
-    "ethers": "^5.0.9"
+    "ethers": "^5.0.9",
+    "sass": "^1.26.10"
   }
 }
